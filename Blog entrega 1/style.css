@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #c0bebe83;
+    font-size: 15px;
+   
+}
+
+header {
+    text-align: center;
+    line-height: 25px;
+    padding: 15px;
+    background-color: #ffffff;
+}
+
+.link{
+    text-align: right;
+}
+
+h2 {
+  font-weight: bold;
+    
+}
+
+h1 {    
+  font-weight: bold;
+  font-size: 25px;
+}
+
+
+.artigo{
+    border-radius: 6px;
+    margin: 10px;
+    background-color: #ffffff;
+    padding: 15px;
+    line-height: 18px;
+}
+
+footer{
+    text-align: center;
+    color: #ffffff;
+    margin: 10px;
+    background-color: #3590ff;
+    border: solid 4px #000000;
+    border-radius: 6px;
+    padding: 15px;
+
+}
+
+.email{
+    border: solid 3px #000000;
+    border-radius: 4px;
+}
+
+.novidades {
+  border-radius: 4px;
+  color: #ffffff;
+  background-color: #000000;
+}
